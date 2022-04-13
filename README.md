@@ -27,6 +27,7 @@ The assembly came together well, except that it was never fully finished before 
 
 ## Base 
 
+The base is important for an initial support and place for the robot to sit. It was one of the easiest things to design in this project because it is just a big flat square base and I cut squares into so we could use that material in other places. 
 
 ### Evidence
 

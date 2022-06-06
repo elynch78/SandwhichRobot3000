@@ -4,7 +4,6 @@
 * [Assembly](#Assembly)
 * [Base](#Base)
 * [Potentiometer platform](#Potentiometer_Platform)
-* [Servos Swivel](#Servo_Swivel)
 * [Arms](#Arms)
 * [Spatula](#Spatula)
 ---
@@ -37,11 +36,19 @@ The base is important for an initial support and place for the robot to sit. It 
 ### Potentiometer platform
 
 
-
-## Servo Swivel 
-
-
 ![Potentiometer Platform](Images/platform.PNG)
+
+
+
+
+### Reflection
+
+### Servo Swivel
+
+
+![Swivel Servos](Images/swivel.PNG)
+
+
 
 
 ### Reflection
@@ -55,11 +62,6 @@ The base is important for an initial support and place for the robot to sit. It 
 ### Reflection
 
 
-
-## Spatula
-
-
-### Reflection
 
 ## Spatula
 

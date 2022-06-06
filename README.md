@@ -49,7 +49,7 @@ The base is important for an initial support and place for the robot to sit. It 
 ## Arms 
 
 
-![Servo Swivel](Images/swivel.PNG)
+![Arms](Images/arms.PNG)
 
 
 ### Reflection
@@ -58,14 +58,12 @@ The base is important for an initial support and place for the robot to sit. It 
 
 ## Spatula
 
-<img src="https://github.com/elynch78/skateboard/blob/main/Images/wheel%20and%20bearing.PNG?raw=true"  height="600">
-
 
 ### Reflection
 
 ## Spatula
 
-![duck](Images/duck.PNG)
+![Spatula](Images/spatula.PNG)
 
 ### Reflection
  

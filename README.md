@@ -68,6 +68,8 @@ These may have been the easiest part of the project to be honest, everything wen
  
 The onshape design worked great, once I added the needed holes after spatula 1... however we did go through like 5 more of these once lazer cut for various reasons, I snapped the corner of one, and then the rest were heat gun issues. Once hot, we moved the edges too far, or at a bad angle. However we finally got one perfect.
 
+## Lessons Learned
+1. 
 
 
 

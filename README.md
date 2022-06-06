@@ -36,33 +36,29 @@ The base is important for an initial support and place for the robot to sit. It 
 
 ### Potentiometer platform
 
-
 ![Potentiometer Platform](Images/platform.PNG)
 
-
-
-
 ### Reflection
+
+This platform was designed where the potentiometers were upside down because we wanted them to just sit in it perfectly, however that turned out to be the wrong end of the potentiometer and we had to switch them so that the turny end faces up. This was really worrying at first because we weren't sure how to hold them in place but then we realized that with a nut they would stay in place. 
+
 
 ### Servo Swivel
 
-
 ![Swivel Servos](Images/swivel.PNG)
 
-
-
-
 ### Reflection
+
+This base is meant to turn the arm 360 degrees and make the arm more useful. Turns out, it doesn't sit flat but that doesn't impact the arm very much as far as we can see. The towers were 3D printed and fit the servos perfectly. 
+
 
 ## Arms 
 
-
 ![Arms](Images/arms.PNG)
-
 
 ### Reflection
 
-
+These may have been the easiest part of the project to be honest, everything went smoothly with them. The only hold up was when we realized we needed to conenct the arms in the middle and had to add a 3D printed cylinder in 2 places so we drilled a hole to make it work. (And we didn't even end up using that hole but its fine.)
 
 ## Spatula
 
@@ -70,7 +66,7 @@ The base is important for an initial support and place for the robot to sit. It 
 
 ### Reflection
  
-
+The onshape design worked great, once I added the needed holes after spatula 1... however we did go through like 5 more of these once lazer cut for various reasons, I snapped the corner of one, and then the rest were heat gun issues. Once hot, we moved the edges too far, or at a bad angle. However we finally got one perfect.
 
 
 

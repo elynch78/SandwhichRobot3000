@@ -19,7 +19,7 @@ No, we did not finish this project yet, but we have everything coming together a
 
 ## Assembly
 
-![Assembly](Images/assembly1.PNG)
+![Assembly](Images/Assembly1.PNG)
 
 ### Reflection
 

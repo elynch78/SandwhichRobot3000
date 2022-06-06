@@ -4,6 +4,7 @@
 * [Assembly](#Assembly)
 * [Base](#Base)
 * [Potentiometer platform](#Potentiometer_Platform)
+* [Servo Swivel](#Servo_Swivel)
 * [Arms](#Arms)
 * [Spatula](#Spatula)
 ---
